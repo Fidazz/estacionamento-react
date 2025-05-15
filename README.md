@@ -39,6 +39,3 @@ src/
 │   └── App.css
 ```
 
-## 🧑‍💻 Autor
-
-Desenvolvido por [Seu Nome]
